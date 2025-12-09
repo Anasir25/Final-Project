@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 
 def location():
 
-    is_="ok"
+    
     
 
     all_address={} 
